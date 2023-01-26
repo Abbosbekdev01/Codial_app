@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
-    tools:context=".fragment_kurslar.KurslarFragment">
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".fragment_guruhlar.GuruhFragment"
+    android:orientation="vertical">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -26,7 +27,7 @@
             android:layout_weight="3"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:text="Barcha kurslar ro’yxati"
+            android:text="Barcha kurslar"
             android:textSize="20dp"
             android:layout_gravity="center"
             android:textColor="#1A4E79"
@@ -41,10 +42,7 @@
             android:src="@drawable/ic_add"
             android:layout_gravity="center"
             />
-
-
     </LinearLayout>
-
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/Rv_kurslar"
@@ -52,6 +50,7 @@
         android:layout_height="match_parent"
         android:layout_marginTop="10dp"
         app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
-        tools:listitem="@layout/item_kurslar" />
+        tools:listitem="@layout/item_guruhlar"
+        />
 
 </LinearLayout>
