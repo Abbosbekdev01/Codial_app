@@ -4,9 +4,17 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Abbosbek/AndroidStudioProjects/Codial_app/app/src/main/res/layout/activity_main.xml" value="0.2359375" />
+        <entry key="..\:/Users/Abbosbek/AndroidStudioProjects/Codial_app/app/src/main/res/layout/fragment_edd_delet.xml" value="0.264" />
         <entry key="..\:/Users/Abbosbek/AndroidStudioProjects/Codial_app/app/src/main/res/layout/fragment_kurslar.xml" value="0.25" />
+        <entry key="..\:/Users/Abbosbek/AndroidStudioProjects/Codial_app/app/src/main/res/layout/fragment_mentor.xml" value="0.25" />
+        <entry key="..\:/Users/Abbosbek/AndroidStudioProjects/Codial_app/app/src/main/res/layout/item_add_mentor.xml" value="0.136" />
         <entry key="..\:/Users/Abbosbek/AndroidStudioProjects/Codial_app/app/src/main/res/layout/item_edit.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/Abbosbek/AndroidStudioProjects/Codial_app/app/src/main/res/layout/item_edit_kurslar.xml" value="0.25" />
+        <entry key="..\:/Users/Abbosbek/AndroidStudioProjects/Codial_app/app/src/main/res/layout/item_kurs_text.xml" value="0.24895833333333334" />
         <entry key="..\:/Users/Abbosbek/AndroidStudioProjects/Codial_app/app/src/main/res/layout/item_kurslar.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/Abbosbek/AndroidStudioProjects/Codial_app/app/src/main/res/layout/item_mentor.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/Abbosbek/AndroidStudioProjects/Codial_app/app/src/main/res/layout/item_mentor_add.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/Abbosbek/AndroidStudioProjects/Codial_app/app/src/main/res/layout/item_mentor_add_delete.xml" value="0.24895833333333334" />
         <entry key="..\:/Users/Abbosbek/AndroidStudioProjects/Codial_app/app/src/main/res/menu/menu_add.xml" value="0.25" />
       </map>
     </option>

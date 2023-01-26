@@ -6,7 +6,7 @@
     android:orientation="vertical">
 
     <androidx.cardview.widget.CardView
-        android:id="@+id/Card_kurslar"
+        android:id="@+id/Card_mentor"
         android:layout_width="match_parent"
         android:layout_height="61dp"
         android:layout_gravity="center"
@@ -28,7 +28,7 @@
             android:textStyle="bold" />
 
         <ImageView
-            android:id="@+id/btn_view_cour"
+            android:id="@+id/btn_view_mentor"
             android:layout_width="50dp"
             android:layout_height="50dp"
             android:layout_gravity="center|right"
